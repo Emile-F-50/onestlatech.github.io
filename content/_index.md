@@ -172,6 +172,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Pierre Escobar, Freelance
 * [Fabre William](https://github.com/williamfabre), développeur 
 * [Guewen Faivre](https://twitter.com/guewen_faivre)
+[Emile Fabrol](https://github.com/Emile-F-50),DSI en retraite
 * [Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)
 * Alexandre Fontfreyde, Lead développeur
 * [Jacques Foucry](https://adminblog.foucry.net) Sysadmin, BOFH
